@@ -21,14 +21,14 @@
     <link href="public/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
     <link href="public/vendor/aos/aos.css" rel="stylesheet">
     <link href="public/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
-    <link href="public/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
+    <link href="public/vendor/gdarkbox/css/gdarkbox.min.css" rel="stylesheet">
 
     <!-- Main CSS File -->
     <link href="public/css/main.css" rel="stylesheet">
 </head>
 <body class="about-page">
 
-  <header id="header" class="header d-flex align-items-center light-background sticky-top">
+  <header id="header" class="header d-flex align-items-center dark-background sticky-top">
     <div class="container-fluid position-relative d-flex align-items-center justify-content-between">
 
       <a href="index.html" class="logo d-flex align-items-center me-auto me-xl-0">
@@ -91,7 +91,7 @@
 
         <div class="row gy-4 justify-content-center">
           <div class="col-lg-4">
-            <img src="public/img/profile-img.jpg" class="img-fluid" alt="">
+            <img src="public/img/Logo-img.png" class="img-fluid" alt="">
           </div>
           <div class="col-lg-8 content">
             <h2>Jed's Web System Technology</h2>
@@ -395,7 +395,7 @@
 
   </main>
 
-  <footer id="footer" class="footer light-background">
+  <footer id="footer" class="footer dark-background">
 
     <div class="container">
       <div class="copyright text-center ">
@@ -431,7 +431,7 @@
   <script src="public/vendor/waypoints/noframework.waypoints.js"></script>
   <script src="public/vendor/purecounter/purecounter_vanilla.js"></script>
   <script src="public/vendor/swiper/swiper-bundle.min.js"></script>
-  <script src="public/vendor/glightbox/js/glightbox.min.js"></script>
+  <script src="public/vendor/gdarkbox/js/gdarkbox.min.js"></script>
   <script src="public/vendor/imagesloaded/imagesloaded.pkgd.min.js"></script>
   <script src="public/vendor/isotope-layout/isotope.pkgd.min.js"></script>
 
