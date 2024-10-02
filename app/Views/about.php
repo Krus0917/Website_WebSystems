@@ -9,6 +9,6 @@
     <script src='main.js'></script>
 </head>
 <body>
-    
+    <?= $this->include('components/header_nav') ?>
 </body>
 </html>

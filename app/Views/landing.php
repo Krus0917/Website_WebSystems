@@ -9,14 +9,6 @@
     <script src='main.js'></script>
 </head>
 <body>
-    <header class="header">
-        <img src="" alt="Image" class="logo">
-        <nav class="nav">
-            <a href="" class="btn">Home</a>
-            <a href="" class="btn">About</a>
-            <a href="" class="btn">Product</a>
-        </nav>
-        <a href="" class="btn action"></a>
-    </header>
+    <?= $this->include('components/header_nav') ?>
 </body>
 </html>
