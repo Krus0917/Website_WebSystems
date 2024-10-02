@@ -13,4 +13,14 @@ class Home extends BaseController
     {
         return view('landing');
     }
+
+    public function about(): string
+    {
+        return view('about');
+    }
+
+    public function catalog(): string
+    {
+        return view('product_catalog');
+    }
 }
