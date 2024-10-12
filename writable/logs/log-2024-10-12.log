@@ -1,0 +1,322 @@
+CRITICAL - 2024-10-12 08:04:07 --> RuntimeException: View themes, no current section.
+[Method: GET, Route: /]
+in SYSTEMPATH\View\View.php on line 442.
+ 1 APPPATH\Views\landing.php(1): CodeIgniter\View\View->endSection('contents')
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\xampp\\htdocs\\Website_WebSystems\\app\\Views\\landing.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('landing', [], true)
+ 5 APPPATH\Controllers\Home.php(19): view('landing')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->landing()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-12 08:04:28 --> RuntimeException: View themes, no current section.
+[Method: GET, Route: /]
+in SYSTEMPATH\View\View.php on line 442.
+ 1 APPPATH\Views\landing.php(1): CodeIgniter\View\View->endSection('contents')
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\xampp\\htdocs\\Website_WebSystems\\app\\Views\\landing.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('landing', [], true)
+ 5 APPPATH\Controllers\Home.php(19): view('landing')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->landing()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-12 08:04:41 --> RuntimeException: View themes, no current section.
+[Method: GET, Route: /]
+in SYSTEMPATH\View\View.php on line 442.
+ 1 APPPATH\Views\landing.php(1): CodeIgniter\View\View->endSection('contents')
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\xampp\\htdocs\\Website_WebSystems\\app\\Views\\landing.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('landing', [], true)
+ 5 APPPATH\Controllers\Home.php(19): view('landing')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->landing()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-12 08:05:12 --> RuntimeException: View themes, no current section.
+[Method: GET, Route: /]
+in SYSTEMPATH\View\View.php on line 442.
+ 1 APPPATH\Views\landing.php(5): CodeIgniter\View\View->endSection('contents')
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\xampp\\htdocs\\Website_WebSystems\\app\\Views\\landing.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('landing', [], true)
+ 5 APPPATH\Controllers\Home.php(19): view('landing')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->landing()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-12 08:06:54 --> RuntimeException: View themes, no current section.
+[Method: GET, Route: /]
+in SYSTEMPATH\View\View.php on line 442.
+ 1 APPPATH\Views\landing.php(7): CodeIgniter\View\View->endSection('contents_1')
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\xampp\\htdocs\\Website_WebSystems\\app\\Views\\landing.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('landing', [], true)
+ 5 APPPATH\Controllers\Home.php(19): view('landing')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->landing()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-12 08:10:44 --> RuntimeException: View themes, no current section.
+[Method: GET, Route: /]
+in SYSTEMPATH\View\View.php on line 442.
+ 1 APPPATH\Views\landing.php(5): CodeIgniter\View\View->endSection('contents_1')
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\xampp\\htdocs\\Website_WebSystems\\app\\Views\\landing.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('landing', [], true)
+ 5 APPPATH\Controllers\Home.php(19): view('landing')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->landing()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-12 08:11:11 --> RuntimeException: View themes, no current section.
+[Method: GET, Route: /]
+in SYSTEMPATH\View\View.php on line 442.
+ 1 APPPATH\Views\landing.php(5): CodeIgniter\View\View->endSection('contents_1')
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\xampp\\htdocs\\Website_WebSystems\\app\\Views\\landing.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('landing', [], true)
+ 5 APPPATH\Controllers\Home.php(19): view('landing')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->landing()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-12 08:11:55 --> RuntimeException: View themes, no current section.
+[Method: GET, Route: /]
+in SYSTEMPATH\View\View.php on line 442.
+ 1 APPPATH\Views\landing.php(5): CodeIgniter\View\View->endSection('contents_1')
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\xampp\\htdocs\\Website_WebSystems\\app\\Views\\landing.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('landing', [], true)
+ 5 APPPATH\Controllers\Home.php(19): view('landing')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->landing()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-12 08:14:38 --> RuntimeException: View themes, no current section.
+[Method: GET, Route: about]
+in SYSTEMPATH\View\View.php on line 442.
+ 1 APPPATH\Views\about.php(5): CodeIgniter\View\View->endSection('contents_1')
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\xampp\\htdocs\\Website_WebSystems\\app\\Views\\about.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('about', [], true)
+ 5 APPPATH\Controllers\Home.php(24): view('about')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->about()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-12 08:15:22 --> RuntimeException: View themes, no current section.
+[Method: GET, Route: about]
+in SYSTEMPATH\View\View.php on line 442.
+ 1 APPPATH\Views\about.php(5): CodeIgniter\View\View->endSection('contents_1')
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\xampp\\htdocs\\Website_WebSystems\\app\\Views\\about.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('about', [], true)
+ 5 APPPATH\Controllers\Home.php(24): view('about')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->about()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-12 08:15:25 --> RuntimeException: View themes, no current section.
+[Method: GET, Route: /]
+in SYSTEMPATH\View\View.php on line 442.
+ 1 APPPATH\Views\landing.php(47): CodeIgniter\View\View->endSection('contents_2')
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\xampp\\htdocs\\Website_WebSystems\\app\\Views\\landing.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('landing', [], true)
+ 5 APPPATH\Controllers\Home.php(19): view('landing')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->landing()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-12 08:17:52 --> RuntimeException: View themes, no current section.
+[Method: GET, Route: /]
+in SYSTEMPATH\View\View.php on line 442.
+ 1 APPPATH\Views\landing.php(5): CodeIgniter\View\View->endSection('contents_1')
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\xampp\\htdocs\\Website_WebSystems\\app\\Views\\landing.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('landing', [], true)
+ 5 APPPATH\Controllers\Home.php(19): view('landing')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->landing()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-12 08:18:42 --> RuntimeException: View themes, no current section.
+[Method: GET, Route: /]
+in SYSTEMPATH\View\View.php on line 442.
+ 1 APPPATH\Views\landing.php(5): CodeIgniter\View\View->endSection('contentsa')
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\xampp\\htdocs\\Website_WebSystems\\app\\Views\\landing.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('landing', [], true)
+ 5 APPPATH\Controllers\Home.php(19): view('landing')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->landing()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-12 08:21:39 --> RuntimeException: View themes, no current section.
+[Method: GET, Route: /]
+in SYSTEMPATH\View\View.php on line 442.
+ 1 APPPATH\Views\landing.php(5): CodeIgniter\View\View->endSection('contents_1')
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\xampp\\htdocs\\Website_WebSystems\\app\\Views\\landing.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('landing', [], true)
+ 5 APPPATH\Controllers\Home.php(19): view('landing')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->landing()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-12 08:24:04 --> RuntimeException: View themes, no current section.
+[Method: GET, Route: /]
+in SYSTEMPATH\View\View.php on line 442.
+ 1 APPPATH\Views\landing.php(5): CodeIgniter\View\View->endSection('contents_1')
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\xampp\\htdocs\\Website_WebSystems\\app\\Views\\landing.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('landing', [], true)
+ 5 APPPATH\Controllers\Home.php(19): view('landing')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->landing()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-12 08:26:05 --> RuntimeException: View themes, no current section.
+[Method: GET, Route: /]
+in SYSTEMPATH\View\View.php on line 442.
+ 1 APPPATH\Views\landing.php(5): CodeIgniter\View\View->endSection('contents_1')
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\xampp\\htdocs\\Website_WebSystems\\app\\Views\\landing.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('landing', [], true)
+ 5 APPPATH\Controllers\Home.php(19): view('landing')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->landing()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-12 08:26:06 --> RuntimeException: View themes, no current section.
+[Method: GET, Route: /]
+in SYSTEMPATH\View\View.php on line 442.
+ 1 APPPATH\Views\landing.php(5): CodeIgniter\View\View->endSection('contents_1')
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\xampp\\htdocs\\Website_WebSystems\\app\\Views\\landing.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('landing', [], true)
+ 5 APPPATH\Controllers\Home.php(19): view('landing')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->landing()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-12 08:26:06 --> RuntimeException: View themes, no current section.
+[Method: GET, Route: /]
+in SYSTEMPATH\View\View.php on line 442.
+ 1 APPPATH\Views\landing.php(5): CodeIgniter\View\View->endSection('contents_1')
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\xampp\\htdocs\\Website_WebSystems\\app\\Views\\landing.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('landing', [], true)
+ 5 APPPATH\Controllers\Home.php(19): view('landing')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->landing()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-12 08:26:06 --> RuntimeException: View themes, no current section.
+[Method: GET, Route: /]
+in SYSTEMPATH\View\View.php on line 442.
+ 1 APPPATH\Views\landing.php(5): CodeIgniter\View\View->endSection('contents_1')
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\xampp\\htdocs\\Website_WebSystems\\app\\Views\\landing.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('landing', [], true)
+ 5 APPPATH\Controllers\Home.php(19): view('landing')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->landing()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-12 08:28:30 --> RuntimeException: View themes, no current section.
+[Method: GET, Route: /]
+in SYSTEMPATH\View\View.php on line 442.
+ 1 APPPATH\Views\landing.php(5): CodeIgniter\View\View->endSection('contents_1')
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\xampp\\htdocs\\Website_WebSystems\\app\\Views\\landing.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('landing', [], true)
+ 5 APPPATH\Controllers\Home.php(19): view('landing')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->landing()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-12 08:31:39 --> RuntimeException: View themes, no current section.
+[Method: GET, Route: /]
+in SYSTEMPATH\View\View.php on line 442.
+ 1 APPPATH\Views\landing.php(5): CodeIgniter\View\View->endSection('contents_1')
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\xampp\\htdocs\\Website_WebSystems\\app\\Views\\landing.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('landing', [], true)
+ 5 APPPATH\Controllers\Home.php(19): view('landing')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->landing()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-12 08:32:38 --> RuntimeException: View themes, no current section.
+[Method: GET, Route: /]
+in SYSTEMPATH\View\View.php on line 442.
+ 1 APPPATH\Views\landing.php(5): CodeIgniter\View\View->endSection('contents_1')
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\xampp\\htdocs\\Website_WebSystems\\app\\Views\\landing.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('landing', [], true)
+ 5 APPPATH\Controllers\Home.php(19): view('landing')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->landing()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-10-12 08:34:52 --> RuntimeException: View themes, no current section.
+[Method: GET, Route: /]
+in SYSTEMPATH\View\View.php on line 442.
+ 1 APPPATH\Views\landing.php(5): CodeIgniter\View\View->endSection('contents_1')
+ 2 SYSTEMPATH\View\View.php(234): include('D:\\xampp\\htdocs\\Website_WebSystems\\app\\Views\\landing.php')
+ 3 SYSTEMPATH\View\View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1171): CodeIgniter\View\View->render('landing', [], true)
+ 5 APPPATH\Controllers\Home.php(19): view('landing')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->landing()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
