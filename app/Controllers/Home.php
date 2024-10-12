@@ -28,4 +28,19 @@ class Home extends BaseController
     {
         return view('product_catalog');
     }
+
+    public function resume(): string
+    {
+        return view('resume');
+    }
+
+    public function services(): string
+    {
+        return view('services');
+    }
+
+    public function portfolio(): string
+    {
+        return view('portfolio');
+    }
 }

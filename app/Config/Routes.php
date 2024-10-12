@@ -9,4 +9,6 @@ $routes->get('test', 'Home::index');
 
 $routes->get('/', 'Home::landing');
 $routes->get('about', 'Home::about');
-$routes->get('catalog', 'Home::catalog');
+$routes->get('resume', 'Home::resume');
+$routes->get('services', 'Home::services');
+$routes->get('portfolio', 'Home::portfolio');
