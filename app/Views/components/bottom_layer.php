@@ -1,4 +1,4 @@
-<footer id="footer" class="footer light-background">
+<footer id="footer" class="footer dark-background">
 
     <div class="container">
       <div class="copyright text-center ">
