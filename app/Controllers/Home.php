@@ -43,4 +43,13 @@ class Home extends BaseController
     {
         return view('portfolio');
     }
+    public function portfolio_details(): string
+    {
+        return view('portfolio_details');
+    }
+
+    public function contact(): string
+    {
+        return view('contact');
+    }
 }

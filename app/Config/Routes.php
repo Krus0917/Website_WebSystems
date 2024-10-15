@@ -12,3 +12,5 @@ $routes->get('about', 'Home::about');
 $routes->get('resume', 'Home::resume');
 $routes->get('services', 'Home::services');
 $routes->get('portfolio', 'Home::portfolio');
+$routes->get('portfolio_details', 'Home::portfolio_details');
+$routes->get('contact', 'Home::contact');

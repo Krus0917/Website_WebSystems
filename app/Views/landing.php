@@ -10,7 +10,7 @@
     <!-- Hero Section -->
     <section id="hero" class="hero section">
 
-      <img src="<?php echo IMG.'hero-bg.jpg'; ?>" data-aos="fade-in">
+      <img src="<?php echo IMG.'Hero.jpg'; ?>" data-aos="fade-in">
 
       <div class="container text-center" data-aos="zoom-out" data-aos-delay="100">
         <div class="row justify-content-center">
@@ -18,7 +18,7 @@
             <h2>Jed's Web System Technology</h2>
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
             magna aliqua.</p>
-            <a href="about.html" class="btn-get-started">About Me</a>
+            <a href="<?= base_url(). 'about' ?>" class="btn-get-started">About Me</a>
           </div>
         </div>
       </div>
