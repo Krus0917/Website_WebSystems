@@ -283,7 +283,7 @@
                 </div>
                 <p>
                   <i class="bi bi-quote quote-icon-left"></i>
-                  <span>Proin iaculis purus consequat sem cure digni ssim donec porttitora entum suscipit rhoncus. Accusantium quam, ultricies eget id, aliquam eget nibh et. Maecen aliquam, risus at semper.</span>
+                  <span>I love Klee <3</span>
                   <i class="bi bi-quote quote-icon-right"></i>
                 </p>
               </div>
