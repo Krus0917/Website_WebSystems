@@ -20,7 +20,7 @@
     <link rel="stylesheet" href="<?php echo VENDOR.'bootstrap-icons/bootstrap-icons.css'; ?>">
     <link rel="stylesheet" href="<?php echo VENDOR.'aos/aos.css'; ?>">
     <link rel="stylesheet" href="<?php echo VENDOR.'swiper/swiper-bundle.min.css'; ?>">
-    <link rel="stylesheet" href="<?php echo VENDOR.'gdarkbox/css/gdarkbox.min.css'; ?>">
+    <link rel="stylesheet" href="<?php echo VENDOR.'glightbox/css/glightbox.min.css'; ?>">
 
     <!-- CSS Files -->
     <link rel="stylesheet" href="<?php echo CSS.'main.css'; ?>">
